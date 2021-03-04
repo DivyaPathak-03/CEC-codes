@@ -5,7 +5,6 @@ int main()
 {
 
     int i,n;
-    int inv=0,comp=0;
     printf("Enter number of elements ");
     scanf("%d",&n);
     int a[n],t[n];
